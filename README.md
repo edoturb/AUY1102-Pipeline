@@ -16,7 +16,7 @@ GitHub with GitHubActions and GHAS offer an incredible experience for developers
 
     Select the ```delete:packages``` scope to delete container images.
 
-2. To authenticate by adding your personal access token to your ~/.npmrc file, edit the ~/.npmrc file for your project to include the following line, replacing TOKEN with your personal access token. Create a new ~/.npmrc file if one doesn't exist.
+2. To authenticate by adding your personal access token to your ~/.npmrc file, edit the ~/.npmrc file for your project to include the following line, replacing TOKEN with your personal access token. Create a new ~/.npmrc file if one doesn't exist.f
 
     ```
     //npm.pkg.github.com/:_authToken=TOKEN
